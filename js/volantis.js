@@ -30,8 +30,7 @@ function(e, t) {
 		}, t.n = function(e) {
 			var n = e && e.__esModule ?
 			function() {
-				return e.
-			default
+				return e.default
 			} : function() {
 				return e
 			};
@@ -1781,15 +1780,28 @@ function(e, t) {
 		e.exports = n
 	}, function(e, t) {
 		e.exports = {
-			aru151: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/assets@18.12.26/emoji/aru/151.png'>",
-      贴吧捂嘴笑: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/assets@18.12.26/emoji/tieba/捂嘴笑.png'>",
-      贴吧乖: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/assets@18.12.26/emoji/tieba/乖.png'>",
-      贴吧OK: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/assets@18.12.26/emoji/tieba/OK.png'>",
-      贴吧太开心: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/assets@18.12.26/emoji/tieba/太开心.png'>",
-      贴吧滑稽: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/assets@18.12.26/emoji/tieba/滑稽.png'>",
-      贴吧泪: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/assets@18.12.26/emoji/tieba/泪.png'>",
-      贴吧真棒: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/assets@18.12.26/emoji/tieba/真棒.png'>",
-      贴吧喷: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/assets@18.12.26/emoji/tieba/喷.png'>",
+			aru151: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/aru/151.png'>",
+      贴吧捂嘴笑: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/tieba/捂嘴笑.png'>",
+      贴吧乖: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/tieba/乖.png'>",
+      贴吧OK: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/tieba/OK.png'>",
+      贴吧太开心: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/tieba/太开心.png'>",
+      贴吧滑稽: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/tieba/滑稽.png'>",
+      贴吧泪: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/tieba/泪.png'>",
+      贴吧真棒: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/tieba/真棒.png'>",
+      贴吧喷: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/tieba/喷.png'>",
+			贴吧疑问: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/tieba/疑问.png'>",
+			贴吧胜利: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/tieba/胜利.png'>",
+			qqOK: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/qq/OK.gif'>",
+			qq嗅大了: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/qq/嗅大了.gif'>",
+			qq尴尬: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/qq/尴尬.gif'>",
+			qq强: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/qq/强.gif'>",
+			qq得意: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/qq/得意.gif'>",
+			qq憨笑: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/qq/憨笑.gif'>",
+			qq抱拳: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/qq/抱拳.gif'>",
+			qq握手: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/qq/握手.gif'>",
+			qq疑问: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/qq/疑问.gif'>",
+			qq阴险: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/qq/阴险.gif'>",
+			qq鼓掌: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/qq/鼓掌.gif'>",
 
 			grinning: "😀",
 			smiley: "😃",
