@@ -1780,6 +1780,21 @@ function(e, t) {
 		e.exports = n
 	}, function(e, t) {
 		e.exports = {
+			aru1: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/aru/1.png'>",
+			aru3: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/aru/3.png'>",
+			aru7: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/aru/7.png'>",
+			aru9: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/aru/9.png'>",
+			aru12: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/aru/12.png'>",
+			aru15: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/aru/15.png'>",
+			aru19: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/aru/19.png'>",
+			aru22: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/aru/22.png'>",
+			aru39: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/aru/39.png'>",
+			aru40: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/aru/40.png'>",
+			aru46: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/aru/46.png'>",
+			aru51: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/aru/51.png'>",
+			aru53: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/aru/53.png'>",
+			aru59: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/aru/59.png'>",
+			aru77: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/aru/77.png'>",
 			aru151: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/aru/151.png'>",
       贴吧捂嘴笑: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/tieba/捂嘴笑.png'>",
       贴吧乖: "<img class='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0-beta2/img/tieba/乖.png'>",
