@@ -2,7 +2,7 @@
 
 volantis，一个基于valine的无后端评论系统的魔改版本。
 
-
+[![](https://data.jsdelivr.com/v1/package/gh/xaoxuu/volantis/badge)](https://www.jsdelivr.com/package/gh/xaoxuu/volantis)
 
 ### Page
 
