@@ -1,6 +1,6 @@
 # volantis
 
-volantis，一个基于valine的无后端评论系统的魔改版本。使用方法同valine一样。
+volantis，一个基于valine的无后端评论系统的修改版（增加若干表情并禁止匿名评论）。使用方法同valine一样。
 
 [![](https://data.jsdelivr.com/v1/package/gh/xaoxuu/volantis/badge)](https://www.jsdelivr.com/package/gh/xaoxuu/volantis)
 
