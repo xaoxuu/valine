@@ -1,30 +1,3 @@
-# volantis
+此仓库即将删除
 
-volantis，一个基于valine的无后端评论系统的修改版（增加若干表情并禁止匿名评论）。使用方法同valine一样。
-
-[![](https://data.jsdelivr.com/v1/package/gh/xaoxuu/volantis/badge)](https://www.jsdelivr.com/package/gh/xaoxuu/volantis)
-
-- 禁止匿名评论
-- 增加若干贴吧和QQ表情
-
-### Page
-
-[https://www.jsdelivr.com/package/gh/xaoxuu/volantis](https://www.jsdelivr.com/package/gh/xaoxuu/volantis)
-
-### js
-
-URL:
-
-```md
-https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0/js/volantis.js
-```
-
-HTML:
-
-```html
-<script src="https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0/js/volantis.min.js"></script>
-```
-
-### img
-
-[https://www.jsdelivr.com/package/gh/xaoxuu/volantis?path=img](https://www.jsdelivr.com/package/gh/xaoxuu/volantis?path=img)
+新的评论系统在这里： https://github.com/xaoxuu/hexo-theme-volantis/blob/master/source/js/valine.js
